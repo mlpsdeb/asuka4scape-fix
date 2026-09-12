@@ -95,3 +95,6 @@ Output: SPTMRace.ipa
 ## License
 
 MIT
+
+Author: github.com/murk-sus
+FIXED VERSION OF PROOF-OF-CONCEPT 
